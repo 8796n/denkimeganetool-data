@@ -81,6 +81,6 @@ export const PRESETS = [
 		label: "ROG XREAL R1",
 		resolution: { width: 1920, height: 1080 },
 		diagonalFov: 57,
-		color: "#ff2e2eff"
+		color: "#ff2e2e"
 	}
 ];
