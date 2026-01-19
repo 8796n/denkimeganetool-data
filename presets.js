@@ -73,7 +73,7 @@ export const PRESETS = [
 		id: "xreal-1s",
 		label: "XREAL 1S",
 		resolution: { width: 1920, height: 1200 },
-		diagonalFov: 52,
+		diagonalFov: 52.1,
 		color: "#ffdb97"
 	},
 	{
@@ -82,5 +82,12 @@ export const PRESETS = [
 		resolution: { width: 1920, height: 1080 },
 		diagonalFov: 57,
 		color: "#ff2e2e"
+	},
+	{
+		id: "xreal-hylla",
+		label: "XREAL Project Aura",
+		resolution: { width: 1920, height: 1200 },
+		diagonalFov: 70.0,
+		color: "#ee8700"
 	}
 ];
