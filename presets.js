@@ -89,5 +89,12 @@ export const PRESETS = [
 		resolution: { width: 1920, height: 1200 },
 		diagonalFov: 70.0,
 		color: "#ee8700"
+	},
+	{
+		id: "rayneo-air-4-pro",
+		label: "RayNeo Air 4 Pro",
+		resolution: { width: 1920, height: 1080 },
+		diagonalFov: 46,
+		color: "#fff34d"
 	}
 ];
