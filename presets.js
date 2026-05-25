@@ -68,5 +68,12 @@ export const PRESETS = [
 		resolution: { width: 1920, height: 1080 },
 		diagonalFov: 52,
 		color: "#ef4444"
+	},
+	{
+		id: "xreal-xbx-a01",
+		label: "XREAL xbx a01",
+		resolution: { width: 1920, height: 1080 },
+		diagonalFov: 50,
+		color: "#ffe600"
 	}
 ];
